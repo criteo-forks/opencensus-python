@@ -27,7 +27,7 @@ install_requires = [
 
 exec(open("opencensus/__version__.py").read())
 setup(
-    name='opencensus',
+    name='criteo-fork-opencensus',
     version=__version__,  # noqa
     author='OpenCensus Authors',
     author_email='census-developers@googlegroups.com',
